@@ -1,0 +1,13 @@
+C:\Users\V-COMP\source\repos\11022021\11022021\bin\Debug\netcoreapp3.1\11022021.exe
+C:\Users\V-COMP\source\repos\11022021\11022021\bin\Debug\netcoreapp3.1\11022021.deps.json
+C:\Users\V-COMP\source\repos\11022021\11022021\bin\Debug\netcoreapp3.1\11022021.runtimeconfig.json
+C:\Users\V-COMP\source\repos\11022021\11022021\bin\Debug\netcoreapp3.1\11022021.runtimeconfig.dev.json
+C:\Users\V-COMP\source\repos\11022021\11022021\bin\Debug\netcoreapp3.1\11022021.dll
+C:\Users\V-COMP\source\repos\11022021\11022021\bin\Debug\netcoreapp3.1\11022021.pdb
+C:\Users\V-COMP\source\repos\11022021\11022021\obj\Debug\netcoreapp3.1\11022021.csprojAssemblyReference.cache
+C:\Users\V-COMP\source\repos\11022021\11022021\obj\Debug\netcoreapp3.1\11022021.AssemblyInfoInputs.cache
+C:\Users\V-COMP\source\repos\11022021\11022021\obj\Debug\netcoreapp3.1\11022021.AssemblyInfo.cs
+C:\Users\V-COMP\source\repos\11022021\11022021\obj\Debug\netcoreapp3.1\11022021.csproj.CoreCompileInputs.cache
+C:\Users\V-COMP\source\repos\11022021\11022021\obj\Debug\netcoreapp3.1\11022021.dll
+C:\Users\V-COMP\source\repos\11022021\11022021\obj\Debug\netcoreapp3.1\11022021.pdb
+C:\Users\V-COMP\source\repos\11022021\11022021\obj\Debug\netcoreapp3.1\11022021.genruntimeconfig.cache
